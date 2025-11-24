@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a first-year Ph.D. student in the Individualized Interdisciplinary Program at **The Hong Kong University of Science and Technology (HKUST)**, advised by [Prof. Anyi Rao](https://anyirao.com/) and [Prof. Huamin Qu](http://www.huamin.org/index.htm). I received my B.Eng. and M.Eng. degrees from **Beihang University (BUAA)**, where I was advised by [Prof. Si Liu](https://iai.buaa.edu.cn/info/1013/1096.htm). <a href='https://scholar.google.com/citations?user=yQ0CXqUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I was fortunate to have interned at several leading tech companies, including **Alibaba Group**, **Baidu Inc.**, and **Meituan**, where I gained valuable industry experience and insights into real-world applications of computer vision and AI technologies.
 
+My current research interest includes visual content generation and editing, visual creativity, and visual storytelling. I am passionate about exploring how to leverage advanced AI techniques to enhance human creativity and storytelling through visual media.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *Nov. 2025*: &nbsp;🎉🎉 Site established!
+
+<!-- # 📝 Selected Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,19 +41,40 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *Sept. 2025 - Present*, **Ph.D. Student in Individualized Interdisciplinary Program, The Hong Kong University of Science and Technology (HKUST)**
+  - Current Research Directions: Visual Content Generation and Editing, Visual Creativity
+  - Supervisors: [Prof. Anyi Rao](https://anyirao.com/), [Prof. Huamin Qu](http://www.huamin.org/index.htm)
+- *Sept. 2022 - Jan. 2025*, **M.Eng. in Computer Science and Technology, Beihang University (BUAA)**
+  - Main Research Directions: Visual Content Generation, Vision & Language, Collaborative Perception
+  - Supervisor: [Prof. Si Liu](https://iai.buaa.edu.cn/info/1013/1096.htm)
+  - Standardized Tests: TOEFL 114 / 120, GRE 332 / 340
+- *Sept. 2018 - June 2022*, **B.Eng. in Computer Science and Technology, Beihang University (BUAA)**
+  - Comprehensive Performance Ranking: 1st / 193
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *June 2024 - Nov. 2024*, Taobao & Tmall Group, Alibaba Group
+- *Nov. 2022 - July 2023*, Baidu Inc.
+- *July 2022 - Nov. 2022*, Alibaba Group
+- *July 2021 - July 2022*, Meituan
+
+# 🎖 Achievements
+
+- Hong Kong PhD Fellowship (HKPFS)
+- National Scholarship of China (both undergraduate and postgraduate levels)
+- Samsung Scholarship, and many university-level and school-level scholarships
+- Outstanding Graduate of Beijing
+- Merit Student of Beihang University, Outstanding Student of Beihang University
+
+# 🕴️ Academic Services
+
+- Organizer of the 7th [CVEU Workshop](https://cveu.github.io/) at SIGGRAPH 2025
+- Conference Reviewer for CVPR, SIGGRAPH Asia, AAAI, and ACM MM
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
