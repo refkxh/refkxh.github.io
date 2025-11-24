@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xianghao Kong - Homepage"
-description              : "Xianghao Kong's Academic Homepage"
+description              : 
 repository               : "refkxh/refkxh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xianghao-kong-063141381/" # e.g., "linkedin username"
+  linkedin         : "xianghao-kong-063141381"
   dblp             : "https://dblp.org/pid/212/0360"
   orcid            : "https://orcid.org/0009-0004-9865-4105"
   pinterest        :
