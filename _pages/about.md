@@ -27,9 +27,11 @@ My current research interest includes visual content generation and editing, vis
 
 - *Nov. 2025*: &nbsp;🎉🎉 Site established!
 
-<!-- # 📝 Selected Papers 
+<span class='anchor' id='selected-papers'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Selected Papers 
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -69,6 +71,8 @@ My current research interest includes visual content generation and editing, vis
 - Samsung Scholarship, and many university-level and school-level scholarships
 - Outstanding Graduate of Beijing
 - Merit Student of Beihang University, Outstanding Student of Beihang University
+
+<span class='anchor' id='academic-services'></span>
 
 # 🕴️ Academic Services
 
