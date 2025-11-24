@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student in the Individualized Interdisciplinary Program at **The Hong Kong University of Science and Technology (HKUST)**, advised by [Prof. Anyi Rao](https://anyirao.com/) and [Prof. Huamin Qu](http://www.huamin.org/index.htm). I received my B.Eng. and M.Eng. degrees from **Beihang University (BUAA)**, where I was advised by [Prof. Si Liu](https://iai.buaa.edu.cn/info/1013/1096.htm). <a href='https://scholar.google.com/citations?user=yQ0CXqUAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DyQ0CXqUAAAAJ&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I am currently a first-year Ph.D. student in the Individualized Interdisciplinary Program at **The Hong Kong University of Science and Technology (HKUST)**, advised by [Prof. Anyi Rao](https://anyirao.com/) and [Prof. Huamin Qu](http://www.huamin.org/index.htm). I received my B.Eng. and M.Eng. degrees from **Beihang University (BUAA)**, where I was advised by [Prof. Si Liu](https://iai.buaa.edu.cn/info/1013/1096.htm). <a href='https://scholar.google.com/citations?user=yQ0CXqUAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Frefkxh%2Frefkxh.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 I was fortunate to have interned at several leading tech companies, including **Alibaba Group**, **Baidu Inc.**, and **Meituan**, where I gained valuable industry experience and insights into real-world applications of computer vision and AI technologies.
 
