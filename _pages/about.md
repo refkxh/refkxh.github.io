@@ -29,17 +29,49 @@ My current research interest includes visual content generation and editing, vis
 
 # 📝 Selected Papers
 
+*: equal contribution, †: corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/ifv2v.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Taming Flow-based I2V Models for Creative Video Editing](https://arxiv.org/abs/2509.21917)
+
+**Xianghao Kong**, Hansheng Chen, Yuwei Guo, Lvmin Zhang, Gordon Wetzstein, Maneesh Agrawala, Anyi Rao
+
+<!-- [**Code**](https://github.com/refkxh/C-Instructor) -->
+<!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:A_FxGoFyzp5QC'></span></strong> -->
+
+- We propose IF-V2V, an Inversion-Free method that can adapt off-the-shelf flow-matching-based I2V models for video editing without significant computational overhead.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/profashion.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images](https://arxiv.org/abs/2505.06537)
+
+**Xianghao Kong**, Qiaosong Qi, Yuanbin Wang, Anyi Rao, Biaolong Chen, Aixi Zhang, Si Liu, Hao Jiang
+
+<!-- [**Code**](https://github.com/refkxh/C-Instructor) -->
+<!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:AWF5omc3nYNoC'></span></strong> -->
+
+- ProFashion is a prototype-guided fashion video generation framework leveraging multiple reference images and human keypoint motion flow to achieve improved view consistency and temporal coherence.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/cinstructor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Controllable Navigation Instruction Generation with Chain of Thought Prompting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04155.pdf)
 
-Xianghao Kong*, Jinyu Chen*, Wenguan Wang†, Hang Su, Xiaolin Hu, Yi Yang, Si Liu†
+**Xianghao Kong**<sup>*</sup>, Jinyu Chen<sup>*</sup>, Wenguan Wang<sup>†</sup>, Hang Su, Xiaolin Hu, Yi Yang, Si Liu<sup>†</sup>
 
 [**Code**](https://github.com/refkxh/C-Instructor)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:AzYLM7Y9cAGgC'></span></strong> -->
 
-- C-Instructor utilizes the chain-of-thought-style prompt for style-controllable and content-controllable instruction generation.
+- We propose C-Instructor, which utilizes the chain-of-thought-style prompt for style-controllable and content-controllable instruction generation.
 
 </div>
 </div>
@@ -49,7 +81,7 @@ Xianghao Kong*, Jinyu Chen*, Wenguan Wang†, Hang Su, Xiaolin Hu, Yi Yang, Si L
 
 [DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception](https://arxiv.org/abs/2310.08117)
 
-Xianghao Kong, Wentao Jiang, Jinrang Jia, Yifeng Shi†, Runsheng Xu, Si Liu
+**Xianghao Kong**, Wentao Jiang, Jinrang Jia, Yifeng Shi<sup>†</sup>, Runsheng Xu, Si Liu
 
 [**Code**](https://github.com/refkxh/DUSA)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:Ad1gkVwhDpl0C'></span></strong> -->
@@ -64,7 +96,7 @@ Xianghao Kong, Wentao Jiang, Jinrang Jia, Yifeng Shi†, Runsheng Xu, Si Liu
 
 [3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_3D-SPS_Single-Stage_3D_Visual_Grounding_via_Referred_Point_Progressive_Selection_CVPR_2022_paper.html)
 
-Junyu Luo*, Jiahui Fu*, **Xianghao Kong**, Chen Gao†, Haibing Ren, Hao Shen, Huaxia Xia, Si Liu
+Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>†</sup>, Haibing Ren, Hao Shen, Huaxia Xia, Si Liu
 
 [**Code**](https://github.com/fjhzhixi/3D-SPS)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:Au5HHmVD_uO8C'></span></strong> -->
