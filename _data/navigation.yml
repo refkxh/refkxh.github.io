@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Selected Papers"
-    url: "/#-selected-papers"
+    url: "/-#selected-papers"
 
   - title: "Educations"
     url: "/#-educations"
@@ -19,4 +19,4 @@ main:
     url: "/#-achievements"
 
   - title: "Academic Services"
-    url: "/#-academic-services"
+    url: "/#academic-services"

@@ -27,23 +27,54 @@ My current research interest includes visual content generation and editing, vis
 
 - *Nov. 2025*: &nbsp;🎉🎉 Site established!
 
-<span class='anchor' id='selected-papers'></span>
+# 📝 Selected Papers
 
-# 📝 Selected Papers 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/cinstructor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Controllable Navigation Instruction Generation with Chain of Thought Prompting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04155.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xianghao Kong*, Jinyu Chen*, Wenguan Wang†, Hang Su, Xiaolin Hu, Yi Yang, Si Liu†
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/refkxh/C-Instructor)
+<!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:AzYLM7Y9cAGgC'></span></strong> -->
+
+- C-Instructor utilizes the chain-of-thought-style prompt for style-controllable and content-controllable instruction generation.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/dusa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception](https://arxiv.org/abs/2310.08117)
+
+Xianghao Kong, Wentao Jiang, Jinrang Jia, Yifeng Shi†, Runsheng Xu, Si Liu
+
+[**Code**](https://github.com/refkxh/DUSA)
+<!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:Ad1gkVwhDpl0C'></span></strong> -->
+
+- DUSA decouples the V2X collaborative sim2real domain adaptation problem into two sub-problems: sim2real adaptation and inter-agent adaptation.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='images/3dsps.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection](https://openaccess.thecvf.com/content/CVPR2022/html/Luo_3D-SPS_Single-Stage_3D_Visual_Grounding_via_Referred_Point_Progressive_Selection_CVPR_2022_paper.html)
+
+Junyu Luo*, Jiahui Fu*, **Xianghao Kong**, Chen Gao†, Haibing Ren, Hao Shen, Huaxia Xia, Si Liu
+
+[**Code**](https://github.com/fjhzhixi/3D-SPS)
+<!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:Au5HHmVD_uO8C'></span></strong> -->
+
+- 3D-SPS bridges the gap between detection and matching in the 3D visual grounding task and localizes the target in a single stage.
+
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Educations
 
