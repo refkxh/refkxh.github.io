@@ -25,11 +25,26 @@ My current research interest includes visual content generation and editing, vis
 
 # 🔥 News
 
-- *Nov. 2025*: &nbsp;🎉🎉 Site established!
+- *Dec. 2025*: &nbsp;🎉🎉 Excited to introduce [BiCo](https://refkxh.github.io/BiCo_Webpage/) that enables flexible concept composition from images and videos!
 
 # 📝 Selected Papers
 
 *: equal contribution, †: corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/bico.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Composing Concepts from Images and Videos via Concept-prompt Binding](https://arxiv.org/abs/2512.09824)
+
+**Xianghao Kong**, Zeyu Zhang, Yuwei Guo, Zhuoran Zhao, Songchun Zhang, Anyi Rao
+
+[**Project**](https://refkxh.github.io/BiCo_Webpage/) [**Code**](https://github.com/refkxh/bico)
+<!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:A_FxGoFyzp5QC'></span></strong> -->
+
+- We introduce Bind & Compose (BiCo), a one-shot method that enables flexible visual concept composition by binding visual concepts with the corresponding prompt tokens and composing the target prompt with bound tokens from various sources.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/ifv2v.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -108,7 +123,7 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 📖 Educations
+# 👨‍🎓 Educations
 
 - *Sept. 2025 - Present*, **Ph.D. Student in Individualized Interdisciplinary Program, The Hong Kong University of Science and Technology (HKUST)**
   - Current Research Directions: Visual Content Generation and Editing, Visual Creativity
