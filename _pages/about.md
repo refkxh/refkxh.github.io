@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a first-year Ph.D. student in the Individualized Interdisciplinary Program at **The Hong Kong University of Science and Technology (HKUST)**, advised by [Prof. Anyi Rao](https://anyirao.com/) and [Prof. Huamin Qu](http://www.huamin.org/index.htm). I received my B.Eng. and M.Eng. degrees from **Beihang University (BUAA)**, where I was advised by [Prof. Si Liu](https://iai.buaa.edu.cn/info/1013/1096.htm). <a href='https://scholar.google.com/citations?user=yQ0CXqUAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Frefkxh%2Frefkxh.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-I was fortunate to have interned at several leading tech companies, including **Alibaba Group**, **Baidu Inc.**, and **Meituan**, where I gained valuable industry experience and insights into real-world applications of computer vision and AI technologies.
+I was fortunate to have interned at several leading tech companies, including **Tencent**, **Alibaba Group**, **Baidu Inc.**, and **Meituan**, where I gained valuable industry experience and insights into real-world applications of computer vision and AI technologies.
 
 My current research interest includes visual content generation and editing, visual creativity, and visual storytelling. I am passionate about exploring how to leverage advanced AI techniques to enhance human creativity and storytelling through visual media.
 
@@ -38,7 +38,7 @@ My current research interest includes visual content generation and editing, vis
 
 **Xianghao Kong**, Zeyu Zhang, Yuwei Guo, Zhuoran Zhao, Songchun Zhang, Anyi Rao
 
-[**Project**](https://refkxh.github.io/BiCo_Webpage/) [**Code**](https://github.com/refkxh/bico)
+[**Project**](https://refkxh.github.io/BiCo_Webpage/) | [**Code**](https://github.com/refkxh/bico)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:A_FxGoFyzp5QC'></span></strong> -->
 
 - We introduce Bind & Compose (BiCo), a one-shot method that enables flexible visual concept composition by binding visual concepts with the corresponding prompt tokens and composing the target prompt with bound tokens from various sources.
@@ -137,6 +137,7 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 
 # 💻 Internships
 
+- *Feb. 2026 - Present*, LightSpeed Studios, Tencent
 - *June 2024 - Nov. 2024*, Taobao & Tmall Group, Alibaba Group
 - *Nov. 2022 - July 2023*, Baidu Inc.
 - *July 2022 - Nov. 2022*, Alibaba Group
@@ -155,7 +156,7 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 # 🕴️ Academic Services
 
 - Organizer of the 7th [CVEU Workshop](https://cveu.github.io/) at SIGGRAPH 2025
-- Conference Reviewer for CVPR, SIGGRAPH Asia, AAAI, and ACM MM
+- Conference Reviewer for CVPR, ECCV, SIGGRAPH Asia, AAAI, ACM MM, and BMVC
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
