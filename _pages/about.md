@@ -25,13 +25,15 @@ My current research interest includes visual content generation and editing, vis
 
 # 🔥 News
 
-- *Dec. 2025*: &nbsp;🎉🎉 Excited to introduce [BiCo](https://refkxh.github.io/BiCo_Webpage/) that enables flexible concept composition from images and videos!
+- *Feb. 2026*: &nbsp;🎉🎉 [BiCo](https://refkxh.github.io/BiCo_Webpage/) is accepted by CVPR 2026!
+- *Feb. 2026*: &nbsp;🎉🎉 [SesaHand](https://alicezrzhao.github.io/sesahand) is accepted by ICLR 2026!
+- *Dec. 2025*: Excited to introduce [BiCo](https://refkxh.github.io/BiCo_Webpage/) that enables flexible concept composition from images and videos!
 
 # 📝 Selected Papers
 
 *: equal contribution, †: corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/bico.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/bico.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Composing Concepts from Images and Videos via Concept-prompt Binding](https://arxiv.org/abs/2512.09824)
@@ -121,7 +123,7 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment](https://openreview.net/pdf?id=sKMgGQQy7g), Zhuoran Zhao, **Xianghao Kong**, Linlin Yang, Zheng Wei, Pan Hui, Anyi Rao, **ICLR 2026**
 
 # 👨‍🎓 Educations
 
