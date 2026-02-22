@@ -21,7 +21,7 @@ I am currently a first-year Ph.D. student in the Individualized Interdisciplinar
 
 I was fortunate to have interned at several leading tech companies, including **Tencent**, **Alibaba Group**, **Baidu Inc.**, and **Meituan**, where I gained valuable industry experience and insights into real-world applications of computer vision and AI technologies.
 
-My current research interest includes visual content generation and editing, visual creativity, and visual storytelling. I am passionate about exploring how to leverage advanced AI techniques to enhance human creativity and storytelling through visual media.
+My current research interest includes interactive videos, visual content generation and editing, visual creativity, and storytelling. I am passionate about achieving an immersive visual experience for users through interactive videos and exploring how to leverage advanced AI techniques to enhance human creativity and storytelling through visual media.
 
 # 🔥 News
 
@@ -128,11 +128,11 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 # 👨‍🎓 Educations
 
 - *Sept. 2025 - Present*, **Ph.D. Student in Individualized Interdisciplinary Program, The Hong Kong University of Science and Technology (HKUST)**
-  - Current Research Directions: Visual Content Generation and Editing, Visual Creativity
+  - Current Research Directions: Interactive Videos, Visual Content Generation and Editing, Visual Creativity
   - Supervisors: [Prof. Anyi Rao](https://anyirao.com/), [Prof. Huamin Qu](http://www.huamin.org/index.htm)
 - *Sept. 2022 - Jan. 2025*, **M.Eng. in Computer Science and Technology, Beihang University (BUAA)**
   - Main Research Directions: Visual Content Generation, Vision & Language, Collaborative Perception
-  - Supervisor: [Prof. Si Liu](https://iai.buaa.edu.cn/info/1013/1096.htm)
+  - Supervisor: [Prof. Si Liu](https://colalab.net/team/)
   - Standardized Tests: TOEFL 114 / 120, GRE 332 / 340
 - *Sept. 2018 - June 2022*, **B.Eng. in Computer Science and Technology, Beihang University (BUAA)**
   - Comprehensive Performance Ranking: 1st / 193
