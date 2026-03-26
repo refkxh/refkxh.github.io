@@ -63,12 +63,12 @@ My current research interest includes interactive videos, visual content generat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/profashion.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2026</div><img src='images/profashion.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images](https://arxiv.org/abs/2505.06537)
 
-**Xianghao Kong**, Qiaosong Qi, Yuanbin Wang, Anyi Rao, Biaolong Chen, Aixi Zhang, Si Liu, Hao Jiang
+**Xianghao Kong**, Qiaosong Qi, Yuanbin Wang, Biaolong Chen, Aixi Zhang<sup>†</sup>, Anyi Rao<sup>†</sup>
 
 <!-- [**Code**](https://github.com/refkxh/C-Instructor) -->
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:AWF5omc3nYNoC'></span></strong> -->
