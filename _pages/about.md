@@ -96,7 +96,7 @@ My current research interest includes interactive videos, visual content generat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/dusa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception](https://arxiv.org/abs/2310.08117)
+[DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception](https://dl.acm.org/doi/10.1145/3581783.3611948)
 
 **Xianghao Kong**, Wentao Jiang, Jinrang Jia, Yifeng Shi<sup>†</sup>, Runsheng Xu, Si Liu
 
