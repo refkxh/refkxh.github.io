@@ -25,7 +25,7 @@ My current research interest includes interactive videos, visual content generat
 
 # 🔥 News
 
-- *Feb. 2026*: &nbsp;🎉🎉 [BiCo](https://refkxh.github.io/BiCo_Webpage/) is accepted by CVPR 2026!
+- *Feb. 2026*: &nbsp;🎉🎉 [BiCo](https://refkxh.github.io/BiCo_Webpage/) is accepted as **Highlight** by CVPR 2026!
 - *Feb. 2026*: &nbsp;🎉🎉 [SesaHand](https://alicezrzhao.github.io/sesahand) is accepted by ICLR 2026!
 - *Dec. 2025*: Excited to introduce [BiCo](https://refkxh.github.io/BiCo_Webpage/) that enables flexible concept composition from images and videos!
 
@@ -33,7 +33,7 @@ My current research interest includes interactive videos, visual content generat
 
 *: equal contribution, †: corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/bico.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Highlight)</div><img src='images/bico.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Composing Concepts from Images and Videos via Concept-prompt Binding](https://arxiv.org/abs/2512.09824)
