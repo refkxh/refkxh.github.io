@@ -25,8 +25,9 @@ My current research interest includes interactive videos, visual content generat
 
 # 🔥 News
 
+- *Mar. 2026*: &nbsp;🎉🎉 [UniVidX](https://houyuanchen111.github.io/UniVidX.github.io/) is accepted by SIGGRAPH 2026 as an **ACM TOG Journal Track** paper!
 - *Feb. 2026*: &nbsp;🎉🎉 [BiCo](https://refkxh.github.io/BiCo_Webpage/) is accepted as **Highlight** by CVPR 2026!
-- *Feb. 2026*: &nbsp;🎉🎉 [SesaHand](https://alicezrzhao.github.io/sesahand) is accepted by ICLR 2026!
+- *Jan. 2026*: &nbsp;🎉🎉 [SesaHand](https://alicezrzhao.github.io/sesahand) is accepted by ICLR 2026!
 - *Dec. 2025*: Excited to introduce [BiCo](https://refkxh.github.io/BiCo_Webpage/) that enables flexible concept composition from images and videos!
 
 # 📝 Selected Papers
@@ -123,6 +124,7 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 </div>
 </div>
 
+- [UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors](https://houyuanchen111.github.io/UniVidX.github.io/), Houyuan Chen, Hong Li, **Xianghao Kong**, Tianrui Zhu, Shaocong Xu, Weiqing Xiao, Yuwei Guo, Chongjie Ye, Lvmin Zhang, Hao Zhao, Anyi Rao, **SIGGRAPH 2026 (Journal Track)**
 - [SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment](https://openreview.net/pdf?id=sKMgGQQy7g), Zhuoran Zhao, **Xianghao Kong**, Linlin Yang, Zheng Wei, Pan Hui, Anyi Rao, **ICLR 2026**
 
 # 👨‍🎓 Educations
