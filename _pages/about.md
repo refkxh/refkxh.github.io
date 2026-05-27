@@ -37,7 +37,7 @@ My current research interest includes interactive videos, visual content generat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Highlight)</div><img src='images/bico.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Composing Concepts from Images and Videos via Concept-prompt Binding](https://arxiv.org/abs/2512.09824)
+[Composing Concepts from Images and Videos via Concept-prompt Binding](https://openaccess.thecvf.com/content/CVPR2026/html/Kong_Composing_Concepts_from_Images_and_Videos_via_Concept-prompt_Binding_CVPR_2026_paper.html)
 
 **Xianghao Kong**, Zeyu Zhang, Yuwei Guo, Zhuoran Zhao, Songchun Zhang, Anyi Rao
 
@@ -67,7 +67,7 @@ My current research interest includes interactive videos, visual content generat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2026</div><img src='images/profashion.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images](https://arxiv.org/abs/2505.06537)
+[ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images](https://openaccess.thecvf.com/content/CVPR2026W/CVEU/html/Kong_ProFashion_Prototype-guided_Fashion_Video_Generation_with_Multiple_Reference_Images_CVPRW_2026_paper.html)
 
 **Xianghao Kong**, Qiaosong Qi, Yuanbin Wang, Biaolong Chen, Aixi Zhang<sup>†</sup>, Anyi Rao<sup>†</sup>
 
