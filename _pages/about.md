@@ -160,7 +160,7 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 # 🕴️ Academic Services
 
 - Organizer of the 7th [CVEU Workshop](https://cveu.github.io/) at SIGGRAPH 2025
-- Conference Reviewer for CVPR, ECCV, NeurIPS, SIGGRAPH Asia, AAAI, ACM MM, and BMVC
+- Conference Reviewer for CVPR, ECCV, NeurIPS, SIGGRAPH Asia, AAAI, ACM MM, Pacific Graphics, and BMVC
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
