@@ -25,6 +25,7 @@ My current research interest includes interactive videos, visual content generat
 
 # 🔥 News
 
+- *July 2026*: &nbsp;🎉🎉 [ShotVerse](https://shotverse.github.io/) is accepted by SIGGRAPH Asia 2026!
 - *June 2026*: &nbsp;🎉🎉 FlexComposer and [MagicPrompt](http://arxiv.org/abs/2607.14595) are accepted by ECCV 2026!
 - *Mar. 2026*: &nbsp;🎉🎉 [UniVidX](https://houyuanchen111.github.io/UniVidX.github.io/) is accepted by SIGGRAPH 2026 as an **ACM TOG Journal Track** paper!
 - *Feb. 2026*: &nbsp;🎉🎉 [BiCo](https://refkxh.github.io/BiCo_Webpage/) is accepted as **Highlight** by CVPR 2026!
@@ -125,6 +126,7 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 </div>
 </div>
 
+- [ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation](https://shotverse.github.io/), Songlin Yang<sup>*</sup>, Zhe Wang<sup>*</sup>, Xuyi Yang<sup>*</sup>, Songchun Zhang, **Xianghao Kong**, Taiyi Wu, Xiaotong Zhao, Ran Zhang, Alan Zhao, Anyi Rao, **SIGGRAPH Asia 2026**
 - FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control, Songchun Zhang, Sitong Guo, **Xianghao Kong**, Pengwei Liu, Yuwei Guo, Lvmin Zhang, Anyi Rao, **ECCV 2026**
 - [MagicPrompt: Ultra-Lightweight Prompt Tuning for Video Generation](http://arxiv.org/abs/2607.14595), Yinhan Zhang<sup>*</sup>, Dingwei Tan<sup>*</sup>, **Xianghao Kong**, Yue Ma, Yeying Jin<sup>†</sup>, Anyi Rao<sup>†</sup>, **ECCV 2026**
 - [UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors](https://houyuanchen111.github.io/UniVidX.github.io/), Houyuan Chen, Hong Li, **Xianghao Kong**, Tianrui Zhu, Shaocong Xu, Weiqing Xiao, Yuwei Guo, Chongjie Ye, Lvmin Zhang, Hao Zhao, Anyi Rao, **SIGGRAPH 2026 (Journal Track)**
