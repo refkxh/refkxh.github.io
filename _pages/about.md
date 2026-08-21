@@ -127,7 +127,7 @@ Junyu Luo<sup>*</sup>, Jiahui Fu<sup>*</sup>, **Xianghao Kong**, Chen Gao<sup>�
 </div>
 </div>
 
-- [Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning](https://mrakas.github.io/video-mme-logical/), Hohin Kwan<sup>*</sup>, Hongyu Li<sup>*</sup>, Renrui Zhang, Manyuan Zhang, **Xianghao Kong**, Anyi Rao, Jiahao Xie<sup>†</sup>, Si Liu
+- [Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning](https://mrakas.github.io/video-mme-logical/), Hohin Kwan<sup>*</sup>, Hongyu Li<sup>*</sup>, Renrui Zhang, Manyuan Zhang, **Xianghao Kong**, Anyi Rao, Jiahao Xie<sup>†</sup>, Si Liu, **EMNLP 2026** (Findings)
 - [ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation](https://shotverse.github.io/), Songlin Yang<sup>*</sup>, Zhe Wang<sup>*</sup>, Xuyi Yang<sup>*</sup>, Songchun Zhang, **Xianghao Kong**, Taiyi Wu, Xiaotong Zhao, Ran Zhang, Alan Zhao, Anyi Rao, **SIGGRAPH Asia 2026**
 - [FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control](https://franklinz233.github.io/projects/flexcomposer/), Songchun Zhang, Sitong Guo, **Xianghao Kong**, Pengwei Liu, Yuwei Guo, Lvmin Zhang, Anyi Rao, **ECCV 2026**
 - [MagicPrompt: Ultra-Lightweight Prompt Tuning for Video Generation](http://arxiv.org/abs/2607.14595), Yinhan Zhang<sup>*</sup>, Dingwei Tan<sup>*</sup>, **Xianghao Kong**, Yue Ma, Yeying Jin<sup>†</sup>, Anyi Rao<sup>†</sup>, **ECCV 2026**
