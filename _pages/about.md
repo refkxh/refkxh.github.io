@@ -43,7 +43,7 @@ My current research interest includes interactive videos, visual content generat
 
 [SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://arxiv.org/abs/2609.02886)
 
-Junchao Huang, Guian Fang, Shengju Qian, **Xianghao Kong**, Zhuoran Zhao, Wei Huang, Yihua Du, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang<sup>†</sup>
+Junchao Huang, Guian Fang, Shengju Qian, **Xianghao Kong**, Zhuoran Zhao, Wei Huang, Yihua Du, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang
 
 [**Project**](https://junchao-cs.github.io/SolarWM-Web/) | [**Code**](https://github.com/Junchao-cs/SolarWM) | [**Checkpoints**](https://huggingface.co/collections/junchaoh-cs/solarwm) | [**Dataset**](https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:A_FxGoFyzp5QC'></span></strong> -->
