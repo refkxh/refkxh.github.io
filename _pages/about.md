@@ -25,7 +25,9 @@ My current research interest includes interactive videos, visual content generat
 
 # 🔥 News
 
-- *Sept. 2026*: &nbsp;🎉🎉 Excited to introduce [SolarWM](https://junchao-cs.github.io/SolarWM-Web/), a **fully open** foundation for building interactive video world models **from data preparation through long-horizon inference**!
+- *Nov. 2026*: We release [SolarWM-H3 Memory](https://solarx-team.github.io/SolarWM-H3-Memory/), improving long-term scene consistency and preserving visual details across revisits.
+- *Oct. 2026*: We release [SolarWM-H3 Realtime](https://solarx-team.github.io/SolarWM-H3-Realtime/), enabling low-latency interactive video generation from an image and a prompt, with real-time camera control.
+- *Sept. 2026*: Excited to introduce [SolarWM](https://junchao-cs.github.io/SolarWM-Web/), a **fully open** foundation for building interactive video world models **from data preparation through long-horizon inference**!
 - *Aug. 2026*: &nbsp;🎉🎉 [Video-MME-Logical](https://mrakas.github.io/video-mme-logical/) is accepted by EMNLP 2026 Findings!
 - *July 2026*: &nbsp;🎉🎉 [ShotVerse](https://shotverse.github.io/) is accepted by SIGGRAPH Asia 2026!
 - *June 2026*: &nbsp;🎉🎉 [FlexComposer](https://franklinz233.github.io/projects/flexcomposer/) and [MagicPrompt](http://arxiv.org/abs/2607.14595) are accepted by ECCV 2026!
@@ -45,7 +47,7 @@ My current research interest includes interactive videos, visual content generat
 
 Junchao Huang, Guian Fang, Shengju Qian, **Xianghao Kong**, Zhuoran Zhao, Wei Huang, Yihua Du, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang
 
-[**Project**](https://junchao-cs.github.io/SolarWM-Web/) | [**Code**](https://github.com/Junchao-cs/SolarWM) | [**Checkpoints**](https://huggingface.co/collections/junchaoh-cs/solarwm) | [**Dataset**](https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data)
+[**Project**](https://junchao-cs.github.io/SolarWM-Web/) | [**Code**](https://github.com/Junchao-cs/SolarWM) | [**Checkpoints**](https://huggingface.co/collections/junchaoh-cs/solarwm) | [**Dataset**](https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data) | [**Realtime**](https://solarx-team.github.io/SolarWM-H3-Realtime/) | [**Memory**](https://solarx-team.github.io/SolarWM-H3-Memory)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:A_FxGoFyzp5QC'></span></strong> -->
 
 - We introduce SolarWM, a **fully open and unified** interactive video world-model foundation comprising a reconfigurable multi-source data infrastructure and a scalable backbone-native adaptation framework.
