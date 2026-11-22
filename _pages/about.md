@@ -50,7 +50,7 @@ Junchao Huang, Guian Fang, Shengju Qian, **Xianghao Kong**, Zhuoran Zhao, Wei Hu
 [**Project**](https://junchao-cs.github.io/SolarWM-Web/) | [**Code**](https://github.com/Junchao-cs/SolarWM) | [**Checkpoints**](https://huggingface.co/collections/junchaoh-cs/solarwm) | [**Dataset**](https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data) | [**Realtime**](https://solarx-team.github.io/SolarWM-H3-Realtime/) | [**Memory**](https://solarx-team.github.io/SolarWM-H3-Memory)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:A_FxGoFyzp5QC'></span></strong> -->
 
-- We introduce SolarWM, a **fully open and unified** interactive video world-model foundation comprising a reconfigurable multi-source data infrastructure and a scalable backbone-native adaptation framework.
+- SolarWM is a **fully open and unified** interactive video world-model foundation comprising a reconfigurable multi-source data infrastructure and a scalable backbone-native adaptation framework.
 
 </div>
 </div>
@@ -65,7 +65,7 @@ Junchao Huang, Guian Fang, Shengju Qian, **Xianghao Kong**, Zhuoran Zhao, Wei Hu
 [**Project**](https://refkxh.github.io/BiCo_Webpage/) | [**Code**](https://github.com/refkxh/bico)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:A_FxGoFyzp5QC'></span></strong> -->
 
-- We introduce Bind & Compose (BiCo), a one-shot method that enables flexible visual concept composition by binding visual concepts with the corresponding prompt tokens and composing the target prompt with bound tokens from various sources.
+- Bind & Compose (BiCo) is a one-shot method that enables flexible visual concept composition by binding visual concepts with the corresponding prompt tokens and composing the target prompt with bound tokens from various sources.
 
 </div>
 </div>
@@ -80,7 +80,7 @@ Junchao Huang, Guian Fang, Shengju Qian, **Xianghao Kong**, Zhuoran Zhao, Wei Hu
 <!-- [**Code**](https://github.com/refkxh/C-Instructor) -->
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:A_FxGoFyzp5QC'></span></strong> -->
 
-- We propose IF-V2V, an Inversion-Free method that can adapt off-the-shelf flow-matching-based I2V models for video editing without significant computational overhead.
+- IF-V2V is an Inversion-Free method that can adapt off-the-shelf flow-matching-based I2V models for video editing without significant computational overhead.
 
 </div>
 </div>
@@ -110,7 +110,7 @@ Junchao Huang, Guian Fang, Shengju Qian, **Xianghao Kong**, Zhuoran Zhao, Wei Hu
 [**Code**](https://github.com/refkxh/C-Instructor)
 <!-- <strong><span class='show_paper_citations' data='yQ0CXqUAAAAJ:AzYLM7Y9cAGgC'></span></strong> -->
 
-- We propose C-Instructor, which utilizes the chain-of-thought-style prompt for style-controllable and content-controllable instruction generation.
+- C-Instructor is a method that utilizes the chain-of-thought-style prompt for style-controllable and content-controllable instruction generation.
 
 </div>
 </div>
